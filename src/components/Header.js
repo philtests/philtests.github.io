@@ -10,7 +10,7 @@ const Header = () => {
         <a class="p-2 text-dark" href="#">Authors</a>
         <a class="p-2 text-dark" href="#">Newsroom</a>
       </nav>
-      <a class="btn btn-outline-primary" href="#">Sign up</a>
+      <a class="btn btn-outline-primary" href="#">Sign in</a>
     </div>
     );
 };
