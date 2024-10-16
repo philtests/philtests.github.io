@@ -4,7 +4,6 @@ services:
     build:
       context: .
       target: development        # Target the development stage from Dockerfile
-    container_name: dev
     ports:
       - '3002:3002'              # Expose port 3002 for development
     volumes:
@@ -25,7 +24,6 @@ services:
     build:
       context: .
       target: production          # Target the production stage from Dockerfile
-    container_name: prod
     ports:
       - '80:80'                   # Expose port 80 for production
     restart: always               # Restart if the container crashes
