@@ -1,7 +1,7 @@
 {
-  "name": "vmc",
+  "name": "psychtools",
   "version": "0.1.0",
-  "homepage": "https://anthillc.github.io/vmc",
+  "homepage": "https://psychtools.github.io",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",

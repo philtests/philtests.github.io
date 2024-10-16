@@ -5,7 +5,7 @@ const Main = () => {
     return (
         <div class="main">
 <div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
-      <h1 class="display-4">Welcome to the Hub</h1>
+      <h1 class="display-4">Welcome to PsychTools</h1>
       <p class="lead">We provide comprehensive psychological testing and assessment.</p>
     </div>
 
