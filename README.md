@@ -1,4 +1,4 @@
-# philtestsgit.github.io
+# philtests.github.io
 
 ## Prerequisites
 * Docker desktop is installed and running
