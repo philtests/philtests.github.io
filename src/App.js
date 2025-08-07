@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+//import logo from './logo.svg';
 import './App.css';
 import Main from './components/Main.js';
 import Footer from './components/Footer.js';
@@ -11,7 +11,7 @@ function App() {
     <Router>
     <div className="App">
       <div class="d-flex flex-column flex-md-row align-items-center p-3 px-md-4 mb-3 bg-dark border-bottom box-shadow">
-        <h5 class="my-0 mr-md-auto font-weight-normal"><Link class="navbar-brand no-underline text-white" to="/">PsychTools</Link></h5>
+        <h5 class="my-0 mr-md-auto font-weight-normal"><Link class="navbar-brand no-underline text-white" to="/">PhilTests</Link></h5>
         <nav class="my-2 my-md-0 mr-md-3">        
           <Link class="p-2 text-white" to="/tests">Tests</Link>
           <Link class="p-2 text-white" to="/oops">Categories</Link>
@@ -21,11 +21,10 @@ function App() {
         <a class="btn btn-warning" href="/oops">Sign in</a>
       </div>
       <Routes>
-          <Route exact path="/" element={<Main/>} />
-          <Route exact path="/tests" element={<Tests/>} />
+          <Route exact path="/" element={<UnderConstruction/>} />
+          <Route exact path="/tests" element={<UnderConstruction/>} />
           <Route exact path="/oops" element={<UnderConstruction/>} />
         </Routes>
-      <Footer/>
     </div>
     </Router>
   );

@@ -11,28 +11,28 @@ const Footer = () => {
           <div class="col-6 col-md">
             <h5>Resources</h5>
             <ul class="list-unstyled text-small">
-              <li><a class="text-muted" href="/">Quick Start</a></li>
-              <li><a class="text-muted" href="/">User Guide</a></li>
-              <li><a class="text-muted" href="/">FAQs</a></li>
-              <li><a class="text-muted" href="/">Report an Issue</a></li>
+              <li><a class="text-muted" href="#">Quick Start</a></li>
+              <li><a class="text-muted" href="#">User Guide</a></li>
+              <li><a class="text-muted" href="#">FAQs</a></li>
+              <li><a class="text-muted" href="#">Report an Issue</a></li>
             </ul>
           </div>
           <div class="col-6 col-md">
             <h5>Services</h5>
             <ul class="list-unstyled text-small">
-              <li><a class="text-muted" href="/">School Admissions Tesing</a></li>
-              <li><a class="text-muted" href="/">Human Resource Evaluatio</a></li>
-              <li><a class="text-muted" href="/">Psychological Assessment</a></li>
-              <li><a class="text-muted" href="/">Workshops</a></li>
+              <li><a class="text-muted" href="#">School Admissions Tesing</a></li>
+              <li><a class="text-muted" href="#">Human Resource Evaluatio</a></li>
+              <li><a class="text-muted" href="#">Psychological Assessment</a></li>
+              <li><a class="text-muted" href="#">Workshops</a></li>
             </ul>
           </div>
           <div class="col-6 col-md">
             <h5>About</h5>
             <ul class="list-unstyled text-small">
-              <li><a class="text-muted" href="/">Team</a></li>
-              <li><a class="text-muted" href="/">Locations</a></li>
-              <li><a class="text-muted" href="/">Terms</a></li>
-              <li><a class="text-muted" href="/">Contact</a></li>
+              <li><a class="text-muted" href="#">Team</a></li>
+              <li><a class="text-muted" href="#">Locations</a></li>
+              <li><a class="text-muted" href="#">Terms</a></li>
+              <li><a class="text-muted" href="#">Contact</a></li>
             </ul>
           </div>
         </div>

@@ -22,4 +22,4 @@ You can now open the site at http://localhost:3002.
 ### Deploy to Github Pages
 `npm run deploy`
 
-Changes are deployed at https://psychtools.github.io.
+Changes are deployed at https://philtests.github.io.

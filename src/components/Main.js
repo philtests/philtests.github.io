@@ -5,7 +5,7 @@ const Main = () => {
     return (
         <div class="main">
 <div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
-      <h1 class="display-4">Welcome to PsychTools</h1>
+      <h1 class="display-4">Welcome to PhilTests</h1>
       <p class="lead">We provide comprehensive psychological testing and assessment.</p>
     </div>
 
@@ -21,7 +21,7 @@ const Main = () => {
         <div class="card mb-4 box-shadow">
           <div class="card-body">
             <h1 class="card-title pricing-card-title"><small class="text-muted">Purchase</small></h1>
-            <p>You may contact us directly or purchase tests <a href="#">here</a>.</p><br/>
+            <p>You may contact us directly or purchase tests <a href="/">here</a>.</p><br/>
             <button type="button" class="btn btn-lg btn-block btn-dark">Contact us</button>
           </div>
         </div>
