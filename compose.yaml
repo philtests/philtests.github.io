@@ -16,6 +16,7 @@ services:
       - WDS_SOCKET_HOST=0.0.0.0  # Ensure the dev server is accessible from outside the container
       - CHOKIDAR_USEPOLLING=true
       - WATCHPACK_POLLING=true
+      - PORT=3002  
     profiles:
       - develop
 
